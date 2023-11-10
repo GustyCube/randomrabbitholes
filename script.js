@@ -12,7 +12,7 @@ const rabbitHoleContent = [
     "You don't need a parachute to skydive once, you only need one to skydive twice.",
     "I ate a box of cereal for breakfast. I am now a serial killer.",
     "You can only be born once, but you can die twice.",
-    "I can guess one thing about you: You are currently reading this sentence."
+    "I can guess one thing about you: You are currently reading this sentence.",
     "The Great Wall of China was built to keep out giant mutant hamsters.",
     "Trees are actually just really slow-moving, ancient creatures.",
     "The Bermuda Triangle is just a Bermuda Square with rounded corners.",
